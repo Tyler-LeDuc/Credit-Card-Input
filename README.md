@@ -1,5 +1,9 @@
 # Credit Card Input for React Native
 
+<p align="center">
+<img src="https://github.com/Tyler-LeDuc/Credit-Card-Input/blob/master/preview-ios.gif?raw=true" width=200/>
+</p>
+
 Code:
 
 ```js
