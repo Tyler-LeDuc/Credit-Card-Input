@@ -4,15 +4,6 @@
 <img src="https://github.com/Tyler-LeDuc/Credit-Card-Input/blob/main/preview-ios.gif?raw=true" width=200/>
 </p>
 
-Code:
-
-```js
-<CreditCardInput onChange={this._onChange} />
-// or
-<LiteCreditCardInput onChange={this._onChange} />
-```
-
-
 # Features
 * Stylish and intuitive design for users to input credit card info
 * Scale the Credit Card for smaller screens
@@ -21,7 +12,6 @@ Code:
 * Supports Android and iOS
 
 # How to use
-
 ```bash
 npm i --save react-native-credit-card-input
 ```
